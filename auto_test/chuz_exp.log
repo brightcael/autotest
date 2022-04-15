@@ -1,0 +1,86 @@
+2022-04-11 01:31:27,750    Arduino-led  success
+
+2022-04-11 01:31:52,104    ----------------test start------------------
+2022-04-11 01:33:05,428    Arduino-led  success
+
+2022-04-11 01:34:20,838    Arduino-serial  success
+
+2022-04-11 01:35:36,362    Arduino-clock  success
+
+2022-04-11 01:36:51,682    Arduino-temperature  success
+
+2022-04-11 01:37:54,109    stm32-serial   failed
+Message: 
+
+2022-04-11 01:38:54,455    stm32-led   failed
+Message: 
+
+2022-04-11 01:39:54,905    stm32-timer   failed
+Message: 
+
+2022-04-11 01:40:55,403    stm32-bandwith   failed
+Message: 
+
+2022-04-11 01:41:10,356    stm32-capture   failed
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/section/main[2]/div/div[1]/div[2]/form/div[5]/div/button"}
+  (Session info: headless chrome=100.0.4896.75)
+
+2022-04-11 01:42:23,539    MQTT  success
+
+2022-04-11 01:43:38,798    LORA  success
+
+2022-04-11 01:44:41,516    bluetooth   failed
+Message: 
+
+2022-04-11 01:45:08,657    ZIGBEE   failed
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/section/main[2]/div/div[1]/div[2]/form/div[5]/div/button"}
+  (Session info: headless chrome=100.0.4896.75)
+
+2022-04-11 01:46:21,777    AliOS-serial  success
+
+2022-04-11 01:47:37,059    AliOS-temperature  success
+
+2022-04-11 01:48:52,224    AliOS-monitor  success
+
+2022-04-11 01:49:54,666    AliOS-led   failed
+Message: 
+
+2022-04-11 01:51:07,781    Tinylink-serial  success
+
+2022-04-11 01:52:23,040    Tinylink-temperature  success
+
+2022-04-11 01:53:38,197    Tinylink-SD  success
+
+2022-04-11 01:54:54,638    Tinylink-IoT studio  success
+
+2022-04-11 01:55:57,905    Contiki-construction   failed
+Message: 
+
+2022-04-11 01:56:58,394    Contiki-UDP   failed
+Message: 
+
+2022-04-11 01:57:58,829    数字识别   failed
+Message: 
+
+2022-04-11 01:59:09,396    图像人脸识别   failed
+Message: 
+
+2022-04-11 02:00:09,687    边缘计算-ifttt智能灯   failed
+Message: 
+
+2022-04-11 02:01:10,829    边缘计算-边缘图像识别   failed
+Message: 
+
+2022-04-11 02:02:11,057    边缘计算-influx数据库存储   failed
+Message: 
+
+2022-04-11 02:03:11,339    边缘计算-边缘MQTT设备接入   failed
+Message: 
+
+2022-04-11 02:04:11,659    边缘计算-函数计算   failed
+Message: 
+
+2022-04-11 02:05:12,103    边缘计算-边缘Modbus设备接入   failed
+Message: 
+
+2022-04-11 02:05:12,103    ----------------test end------------------
