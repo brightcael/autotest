@@ -1,0 +1,13 @@
+2022-04-24 16:00:26,763    live test succsess
+2022-04-24 16:02:11,145    live test succsess
+2022-04-24 16:02:43,875    live test succsess
+2022-04-24 16:03:44,417    live test succsess
+2022-04-24 16:09:13,004    live test succsess
+2022-04-24 16:18:18,904    live test failed
+'Test_live' object has no attribute 'browser'
+2022-04-24 16:20:46,207    live test failed
+'Test_live' object has no attribute 'browser'
+2022-04-24 16:22:55,628    live test succsess
+2022-04-24 16:23:25,578    live test succsess
+2022-04-24 16:24:25,034    live test succsess
+2022-04-24 16:31:47,297    live test succsess

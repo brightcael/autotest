@@ -16,15 +16,17 @@ import urllib.parse
 # import sys
 # sys.path.append("..")
 from parameters import login_information,chuz_exp
-from util import login,function
+from utils import login,function
+
 ####日志格式定义
 logging.basicConfig(level=logging.INFO,  # 控制台打印的日志级别
-                            filename='webide-test.log',
+                            filename='chuz_test.log',
                             filemode='a',
                             format=
                             '%(asctime)s    %(message)s'
                             # 日志格式
                             )
+
 def chuz_test(exp):
     print(exp["name"]+"start")
     try:

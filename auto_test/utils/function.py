@@ -13,7 +13,7 @@ class browser():
         options = webdriver.ChromeOptions()
         options.add_argument("--no-sandbox")
         options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--headless')
+        #options.add_argument('--headless')
         options.add_argument('window-size=1920x1080')
         ###启动
         browser = webdriver.Chrome(chrome_options=options)
@@ -53,10 +53,10 @@ class DingTalk_Disaster(DingTalk_Base):
         super(DingTalk_Disaster, self).__init__()
 
 
-logging.basicConfig(level=logging.INFO,  # 控制台打印的日志级别
-                            filename='chuz_exp.log',
-                            filemode='a',
-                            format=
-                            '%(asctime)s    %(message)s'
-                            # 日志格式
-                            )
+# logging.basicConfig(level=logging.INFO,  # 控制台打印的日志级别
+#                             filename='chuz_exp.log',
+#                             filemode='a',
+#                             format=
+#                             '%(asctime)s    %(message)s'
+#                             # 日志格式
+#                             )
